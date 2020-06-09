@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542406397 source:c:\users\jihen\desktop\projet se\version1\main.cpp
+	<iostream>
+	<numeric>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1542406397 source:c:\users\jihen\desktop\1ere ing\projet se\version1\main.cpp
+	<iostream>
+	<numeric>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
